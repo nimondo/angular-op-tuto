@@ -1,4 +1,4 @@
-# Angular: BLOG PROJECT
+# Angular: Appareil PROJECT
 
 ## Table of Contents
 
